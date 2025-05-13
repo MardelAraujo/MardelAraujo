@@ -6,7 +6,7 @@ Sou desenvolvedor full stack com foco em Big Data, automação e soluções base
 
 
 🔭 I’m currently working on:  
-O desenvolvimento de um agente de inteligência artificial verticalizado, voltado à capacitação de profissionais da educação no atendimento a estudantes neuroatípicos. O agente auxilia no reconhecimento de crises, na adaptação de tarefas e provas, e no aprimoramento da comunicação com alunos com transtorno do espectro autista (TEA), promovendo inclusão e suporte especializado.  
+Desenvolvimento de um agente de inteligência artificial verticalizado, voltado à capacitação de profissionais da educação no atendimento a estudantes neuroatípicos. O agente auxilia no reconhecimento de crises, na adaptação de tarefas e provas, e no aprimoramento da comunicação com alunos com transtorno do espectro autista (TEA), promovendo inclusão e suporte especializado.  
 Também atuo como assistente comercial na Fibon, oferecendo suporte estratégico em TI e contribuindo na captação, estruturação e análise de dados com inteligência artificial para otimizar processos e impulsionar os resultados de empresas do setor comercial.
 
 
