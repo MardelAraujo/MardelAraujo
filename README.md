@@ -5,22 +5,22 @@
 Sou desenvolvedor full stack com foco em Big Data, automação e soluções baseadas em IA.
 
 
-🔭 I’m currently working on:  
-Desenvolvimento de um agente de inteligência artificial verticalizado, voltado à capacitação de profissionais da educação no atendimento a estudantes neuroatípicos. O agente auxilia no reconhecimento de crises, na adaptação de tarefas e provas, e no aprimoramento da comunicação com alunos com transtorno do espectro autista (TEA), promovendo inclusão e suporte especializado.  
+🔭   
+Trabalhando no desenvolvimento de um agente de inteligência artificial verticalizado, voltado à capacitação de profissionais da educação no atendimento a estudantes neuroatípicos. O agente auxilia no reconhecimento de crises, na adaptação de tarefas e provas, e no aprimoramento da comunicação com alunos com transtorno do espectro autista (TEA), promovendo inclusão e suporte especializado.  
 Também atuo como assistente comercial na Fibon, oferecendo suporte estratégico em TI e contribuindo na captação, estruturação e análise de dados com inteligência artificial para otimizar processos e impulsionar os resultados de empresas do setor comercial.
 
 
-🌱 I’m currently learning:  
-Python com foco em automação e inteligência artificial generativa, utilizando frameworks como LangChain, LangGraph e CrewAI.
+🌱   
+Aprendendo Python com foco em automação e inteligência artificial generativa, utilizando frameworks como LangChain, LangGraph e CrewAI.
 
-👯 I’m looking to collaborate on:  
-Projetos de IA, automação de tarefas repetitivas, soluções para as áreas de saúde, educação e varejo, além de experiências que envolvam UX e frontend.
+👯  
+Aceito todo tipo de colaboração, principalmente em projetos de IA, automação de tarefas repetitivas, soluções para as áreas de saúde, educação e varejo.
 
-🤔 I’m looking for help with:  
-Modelagem de soluções em IA, experiência do usuário (UX) e desenvolvimento frontend.
+🤔  
+Sempre bom trocar figurinhas sobre modelagem de soluções em IA, experiência do usuário (UX) e desenvolvimento frontend.
 
-💬 Ask me about:  
-Big Data, automação, APIs, integração de sistemas, desenvolvimento full stack e implantação de soluções com inteligência artificial.
+💬   
+Fiquem a vontade para me perguntar sobre: Big Data, automação, APIs, integração de sistemas, desenvolvimento full stack e implantação de soluções com inteligência artificial.
  
 📍 Salvador, Bahia  
 
