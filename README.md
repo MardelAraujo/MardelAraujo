@@ -1,6 +1,13 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=0077B5&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Ol%C3%A1,+seja+bem-vindo!+:D+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
+
+
 ![Banner](https://github.com/user-attachments/assets/a9473a2f-3b34-4d34-a376-1504e3d98375)
 
-# Oi! Eu sou Mardel Araújo! 👋
+# Me chamo Mardel Araújo!
 
 Sou desenvolvedor full stack com foco em Big Data, automação e soluções baseadas em IA.
 
