@@ -7,7 +7,7 @@
 
 ![Banner](https://github.com/user-attachments/assets/a9473a2f-3b34-4d34-a376-1504e3d98375)
 
-# Me chamo Mardel Araújo!
+# Me chamo Mardel Araújo,
 
 Sou desenvolvedor full stack com foco em Big Data, automação e soluções baseadas em IA.
 
