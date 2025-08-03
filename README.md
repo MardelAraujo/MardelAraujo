@@ -9,26 +9,27 @@
 
 # Me chamo Mardel Araújo,
 
-Sou desenvolvedor full stack com foco em Big Data, automação e soluções baseadas em IA.
+Sou um desenvolvedor focado em transformar dados em inteligência de negócio através da automação e de soluções de IA.
 
+🔭
+Atualmente, dedico-me a dois projetos principais:
 
-🔭   
-Trabalhando no desenvolvimento de um agente de inteligência artificial verticalizado, voltado à capacitação de profissionais da educação no atendimento a estudantes neuroatípicos. O agente auxilia no reconhecimento de crises, na adaptação de tarefas e provas, e no aprimoramento da comunicação com alunos com transtorno do espectro autista (TEA), promovendo inclusão e suporte especializado.  
-Também atuo como assistente comercial na Fibon, oferecendo suporte estratégico em TI e contribuindo na captação, estruturação e análise de dados com inteligência artificial para otimizar processos e impulsionar os resultados de empresas do setor comercial.
+Estou desenvolvendo um agente de IA verticalizado para capacitar educadores no suporte a estudantes neuroatípicos. A solução auxilia no reconhecimento de crises, na adaptação de conteúdo pedagógico e no aprimoramento da comunicação, promovendo um ambiente educacional mais inclusivo.
 
+Na Fibon Soluções Inteligentes, aplico IA para analisar dados de comportamento do consumidor em retail media, otimizando processos e gerando insights estratégicos para o setor comercial.
 
-🌱   
-Aprendendo Python com foco em automação e inteligência artificial generativa, utilizando frameworks como LangChain, LangGraph e CrewAI.
+🌱
+Aprimorando continuamente minhas habilidades em Python com foco em IA Generativa, utilizando frameworks como LangChain e CrewAI, e explorando plataformas low-code como o n8n para a automação rápida de fluxos de trabalho.
 
-👯  
-Aceito todo tipo de colaboração, principalmente em projetos de IA, automação de tarefas repetitivas, soluções para as áreas de saúde, educação e varejo.
+👯
+Estou aberto a colaborações, principalmente em projetos que envolvam IA, automação de processos e soluções inovadoras para as áreas de saúde, educação, varejo e mercado financeiro.
 
-🤔  
-Sempre bom trocar figurinhas sobre modelagem de soluções em IA, experiência do usuário (UX) e desenvolvimento frontend.
+🤔
+Interessado em discussões sobre modelagem de soluções em IA, otimização de processos de negócio e a intersecção entre análise de dados e experiência do usuário (UX).
 
-💬   
-Fiquem a vontade para me perguntar sobre: Big Data, automação, APIs, integração de sistemas, desenvolvimento full stack e implantação de soluções com inteligência artificial.
- 
+💬
+Fique à vontade para me perguntar sobre: Inteligência Artificial (IA), Automação de Processos, Análise de Dados, Business Intelligence, Python, APIs e Desenvolvimento Full Stack.
+
 📍 Salvador, Bahia  
 
 <p align="center">
