@@ -9,26 +9,30 @@
 
 # Me chamo Mardel Araújo,
 
-Sou um desenvolvedor focado em transformar dados em inteligência de negócio através da automação e de soluções de IA.
+Sou um desenvolvedor focado em construir soluções de Inteligência Artificial e Automação que resolvem desafios complexos de negócio. Minha especialidade é traduzir grandes volumes de dados em insights acionáveis, otimizando processos e impulsionando a tomada de decisões estratégicas.
 
-🔭
-Atualmente, dedico-me a dois projetos principais:
+### Foco Atual e Projetos Principais
 
-Estou desenvolvendo um agente de IA verticalizado para capacitar educadores no suporte a estudantes neuroatípicos. A solução auxilia no reconhecimento de crises, na adaptação de conteúdo pedagógico e no aprimoramento da comunicação, promovendo um ambiente educacional mais inclusivo.
+Atualmente, minha energia está direcionada para duas frentes principais que combinam tecnologia e impacto social/comercial:
 
-Na Fibon Soluções Inteligentes, aplico IA para analisar dados de comportamento do consumidor em retail media, otimizando processos e gerando insights estratégicos para o setor comercial.
+* **🧠 IA para Educação Inclusiva:** Lidero o desenvolvimento de um agente de IA verticalizado, projetado para capacitar educadores no suporte a estudantes neuroatípicos. A solução visa aprimorar o ambiente educacional através do reconhecimento de crises, adaptação de conteúdo pedagógico e otimização da comunicação.
 
-🌱
-Aprimorando continuamente minhas habilidades em Python com foco em IA Generativa, utilizando frameworks como LangChain e CrewAI, e explorando plataformas low-code como o n8n para a automação rápida de fluxos de trabalho.
+* **📈 IA para Retail Media (Fibon):** Na Fibon Soluções Inteligentes, aplico modelos de IA para analisar dados de comportamento do consumidor. Meu trabalho envolve a otimização de processos e a geração de inteligência de mercado para o setor comercial, traduzindo dados em estratégias de venda mais eficazes.
 
-👯
-Estou aberto a colaborações, principalmente em projetos que envolvam IA, automação de processos e soluções inovadoras para as áreas de saúde, educação, varejo e mercado financeiro.
+### Tecnologias e Ferramentas
 
-🤔
-Interessado em discussões sobre modelagem de soluções em IA, otimização de processos de negócio e a intersecção entre análise de dados e experiência do usuário (UX).
+Minha stack é centrada em eficiência e inovação, com forte ênfase em tecnologias de IA de ponta:
 
-💬
-Fique à vontade para me perguntar sobre: Inteligência Artificial (IA), Automação de Processos, Análise de Dados, Business Intelligence, Python, APIs e Desenvolvimento Full Stack.
+* **Linguagem Principal:** Python
+* **IA Generativa & Frameworks:** LangChain, CrewAI
+* **Automação & Low-Code:** n8n, APIs REST
+* **Análise de Dados & BI:** Business Intelligence, Modelagem de Dados
+* **Desenvolvimento Geral:** Experiência Full Stack para prototipagem e entrega de soluções completas.
+
+### Interesses e Colaboração
+
+Busco ativamente colaborar em projetos inovadores, especialmente nas áreas de **saúde, educação, varejo e mercado financeiro**. Tenho grande interesse em discussões sobre modelagem de soluções em IA, otimização de processos de negócio e a intersecção entre análise de dados e experiência do usuário (UX).
+
 
 📍 Salvador, Bahia  
 
